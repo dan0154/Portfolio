@@ -1,2 +1,2 @@
-#Portfolio trimestre 1
-Portfolio com as atividades e autorias do primeiro trimestre
+# Portfolio 1
+Portfolio do primeiro trimestre do segundo ano do Ensino Médio
