@@ -1,4 +1,4 @@
-/*Código referente a atividade do dia 30/06 no classroom*/
+/*Código referente à atividade do dia 30/06 no classroom*/
 
 CREATE TABLE aviao (
   id_aviao_pk INT NOT NULL,
