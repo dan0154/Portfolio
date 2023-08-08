@@ -1,3 +1,4 @@
+#Autoria 2
 #Código referente à tarefa "Leilão" da OBI 2023
 #Data: 02/06/2023
 

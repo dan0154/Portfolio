@@ -1,3 +1,4 @@
+#Autoria 1
 #Código referente à tarefa "Estoque" da OBI 2023
 #Data: 02/06/2023
 
