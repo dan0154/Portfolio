@@ -1,6 +1,6 @@
 #Autoria 1
 #Código referente à tarefa "Estoque" da OBI 2023
-#Data: 02/06/2023
+#Data de criação: 02/06/2023
 
 l1 = [int(x) for x in input().split()]
 
