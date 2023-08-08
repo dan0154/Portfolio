@@ -1,3 +1,6 @@
+#Código referente à tarefa "Leilão" da OBI 2023
+#Data: 02/06/2023
+
 N = int(input())
 lancesP = list()
 lancesV = list()
