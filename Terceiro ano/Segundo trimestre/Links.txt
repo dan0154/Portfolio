@@ -1,0 +1,8 @@
+Link para repositório com atividades de React Native
+https://github.com/schddan/Desenvolvimento-Web.git
+
+Link para repositório com a atividade do site do UNO
+https://github.com/dan0154/SiteUno.git
+
+Link para repositório com a prova prática de Desenvolvimento de Sistemas
+https://github.com/dan0154/provaPraticaDanielAlexandre.git
