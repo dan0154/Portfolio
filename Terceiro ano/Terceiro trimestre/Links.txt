@@ -1,0 +1,8 @@
+Link para repositório com o projeto fullstack em React Native
+https://github.com/schddan/Projeto-fullstack-react-native.git
+
+Link para repositório com pequenos projetos em React Native
+https://github.com/schddan/React-Native-Projects.git
+
+Link para repositório com um projeto em Java para conexão com Banco de Dados
+https://github.com/schddan/BD-Olimpiadas.git
